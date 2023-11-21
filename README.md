@@ -1,5 +1,7 @@
 Para testar o funcionamento do código, basta utilizar, em sua IDE de preferência (VSCode por exemplo), em um terminal:
+
 - Executar o comando: dart run
+
 Após a execução, o usuário terá possibilidade de digitar um número.
 Detalhes da resposta serão imprimidos também no console, conforme a lógica do desafio que segue:
 
